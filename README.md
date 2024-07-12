@@ -1,15 +1,12 @@
-# GPT Cache
-A cache of gpt prompts and their responses under human moderated written context.
+# gpt-cache
 
-# Quickstart
+Mission: cache responses from LLM sources
 
-Go on over to 
+Impact: LLM cache look up = `($)` --------- LLM query = `($$$$$)`
 
+## Cache
 
-#  80% of any proceeds will be distributed amung the following organizations
-- Wounded Warrior Project
-- The Environment
-- Fair Elections
-- Health and Wellness
-- LGBTQ+ Wellnes 
-- Feed the Childern
+./cache/teach-me-how-to-use-the-reduce-function-in-clojure/teach-me-how-to-use-the-reduce-function-in-clojure.md
+
+Want more information? Read ./gpt-cache.md
+
